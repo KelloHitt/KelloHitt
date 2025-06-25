@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
 def introduce():
     name = "Venus"
     degree = "Bachelor of Science in Computer Science"
@@ -23,3 +24,4 @@ def introduce():
     print(f"I'm currently studying {degree}.")
 
 introduce()
+```
