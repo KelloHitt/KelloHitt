@@ -1,4 +1,4 @@
-## Hi there 👋
+## print("Hello World, I am Venus") 👋
 
 <!--
 **KelloHitt/KelloHitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ```
 def introduce():
     name = "Venus"
-    degree = "Bachelor of Science in Computer Science"
+    degree = "Bachelor of Science majoring in Computer Science"
     
     print(f"Hi, I'm {name}!")
     print(f"I'm currently studying {degree}.")
