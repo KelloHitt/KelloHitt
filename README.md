@@ -1,4 +1,4 @@
-## print("Hello World, I am Venus") 👋
+## print("Hello World, I am Venus 👋") 
 
 <!--
 **KelloHitt/KelloHitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
