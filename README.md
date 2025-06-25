@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+def introduce():
+    name = "Venus"
+    degree = "Bachelor of Science in Computer Science"
+    
+    print(f"Hi, I'm {name}!")
+    print(f"I'm currently studying {degree}.")
+
+introduce()
