@@ -1,4 +1,4 @@
-## print("Hello World, I am Venus 👋") 
+![Banner](https://github.com/KelloHitt/KelloHitt/blob/main/Github%20Profile!.png?raw=true)
 
 <!--
 **KelloHitt/KelloHitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
