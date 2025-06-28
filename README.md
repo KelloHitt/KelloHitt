@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 ```
 def introduce():
     name = "Venus"
-    degree = "Bachelor of Science majoring in Computer Science"
+    degree = "Bachelor of Science"
+    major = "Computer Science"
     
     print(f"Hi, I'm {name}!")
-    print(f"I'm currently studying {degree}.")
+    print(f"I'm currently studying {degree} with a major in {major}.")
 
 introduce()
 ```
