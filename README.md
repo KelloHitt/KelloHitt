@@ -35,7 +35,7 @@ introduce()
 
 
 # 399 Capstone Group Project - Received the 'Community Impact Award':
-View my capstone group project here where I made contributions using my uni account 'vcha-uni' - [399 Capstone Project](https://github.com/uoa-compsci399-s2-2025/capstone-project-s2-2025-team-37). Here is the LinkedIn post made by School of Computer Science at the University of Auckland - https://www.linkedin.com/posts/uoacompsci_capstone-computerscience-softwareengineering-activity-7401743288892055554-ZLaO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgAJGMBENh-BvPA8P3cfPyOeowhr1jPE24  
+View my capstone group project here where I made contributions using my uni account 'vcha-uni' - [399 Capstone Project](https://github.com/uoa-compsci399-s2-2025/capstone-project-s2-2025-team-37). Here is the [LinkedIn post made by School of Computer Science at the University of Auckland](https://www.linkedin.com/posts/uoacompsci_capstone-computerscience-softwareengineering-activity-7401743288892055554-ZLaO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgAJGMBENh-BvPA8P3cfPyOeowhr1jPE24)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KelloHitt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
