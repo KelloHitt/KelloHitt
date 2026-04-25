@@ -24,7 +24,7 @@ def introduce():
     major = "Computer Science"
     
     print(f"Hi, I'm {name}!")
-    print(f"I'm currently studying {degree} with a major in {major}.")
+    print(f"I studied a {degree} with a major in {major}.")
 
 introduce()
 ```
